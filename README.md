@@ -1,0 +1,1 @@
+# qa-manual-jira-portfolio
