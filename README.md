@@ -44,7 +44,7 @@ Overview of the testing lifecycle organized across **To Do** (open defects), **I
 ### 2. Test Case Execution & Defect Traceability
 Example of a structured Test Case (`TC_UI_003`) linked via `is blocked by` relationships to the specific defects discovered during execution (`KAN-4` and `KAN-5`).
 
-![Test Case Traceability](02_jira_test_case_traceability.jpg)
+![Test Case Traceability](02_jira_test_case_traceability.png)
 
 ---
 
