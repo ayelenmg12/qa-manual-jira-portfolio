@@ -51,4 +51,4 @@ Example of a structured Test Case (`TC_UI_003`) linked via `is blocked by` relat
 ### 3. Detailed Bug Report with Visual Evidence
 Standardized bug report (`BUG_002`) including clear reproduction steps, expected vs. actual results, environment details, and attached screenshot evidence.
 
-![Bug Report Evidence](03_jira_bug_report_evidence.jpg)
+![Bug Report Evidence](03_jira_bug_report_evidence.png)
